@@ -21,5 +21,6 @@ The first 3 steps contrive the front-end process and rest are back-end steps.
   - [Day 1 - Inception of open-source EDA, OpenLANE and Sky130 PDK](#day-1---inception-of-open-source-eda-openlane-and-sky130-pdk)
     - [How to talk to computers?](#How-to-talk-to-computers)
 
-# How to talk to computers?
+# Day 1 - Inception of open-source EDA, OpenLANE and Sky130 PDK
+## How to talk to computers?
 Processor die is a single continuous piece of semiconductor material (usually silicon). 
