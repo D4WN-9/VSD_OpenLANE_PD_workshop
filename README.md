@@ -8,4 +8,7 @@ The main focus is towards the RTL to GDS flow, wherein RTL (a high level descrip
 
 <img src="/img/asic-design-flow.png" alt="Alt text" title="Optional title">
 
-## 
+## Installation of open source tools
+  The following scripts automate the installation of multiple open source tools required for this workshop
+  - [VSDFlow](https://github.com/kunalg123/vsdflow) - Contains script to install - Yosys, blifFanout, graywolf, qrouter, magic, netgen, OpenTimer and OpenSTA
+  - [OpenLANE Build Scripts](https://github.com/nickson-jose/openlane_build_script) - Contains OpenLANE build tools.
