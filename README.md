@@ -17,6 +17,7 @@ The first 3 steps contrive the front-end process and rest are back-end steps.
 ## Table of Contents
   - [An insight into Advanced Physical Design](#an-insight-into-advanced-physical-design)
   - [Technological Significance](#Technological-Significance)
+  - [Installation of open source tools](#Installation of open source tools)
 
 
 Day 1 - Inception of open-source EDA, OpenLANE and Sky130 PDK
