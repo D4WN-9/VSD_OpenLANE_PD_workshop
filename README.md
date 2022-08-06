@@ -1,6 +1,6 @@
 # An insight into Advanced Physical Design
 
-This repository contains my theoretical and practical comprehension of physical design of semiconductor based chips using open source tools. This work is done under the [Advanced Physical Design Using OpenLANE / SKY130](https://www.vlsisystemdesign.com/advanced-physical-design-using-openlane-sky130/) workshop. This repository also functions as a tutorial for those interested in open source physical design.
+This repository contains my theoretical and practical comprehension of physical design of semiconductor based chips using open source tools. This work is done under the [Advanced Physical Design Using OpenLANE / SKY130](https://www.vlsisystemdesign.com/advanced-physical-design-using-openlane-sky130/) workshop. This repository also functions as a tutorial for those interested in open source physical design especially students.
 
 ## Significance
 
